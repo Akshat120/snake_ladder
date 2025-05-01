@@ -64,3 +64,10 @@ The application takes input from the command line or a file in the following for
 Gaurav
 Sagar
 ```
+### Output 
+
+<img width="438" alt="Screenshot 2025-05-01 at 11 49 12 PM" src="https://github.com/user-attachments/assets/17b7c8c6-231d-4001-a2b7-85a047dc8c78" />
+
+
+
+
